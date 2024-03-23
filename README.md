@@ -1,5 +1,5 @@
 # zen-practice
-![alt text](<Screenshot 2024-03-17 at 12.22.22 (2).png>)
+![alt text](<preview.png>)
 preview
 # How to Start
 1. Git clone to work directory
