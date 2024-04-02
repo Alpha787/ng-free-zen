@@ -1,5 +1,5 @@
 # zen-practice
-![alt text](<preview.png>)
+![preview](<preview.png>)
 preview
 # How to Start
 1. Git clone to work directory
