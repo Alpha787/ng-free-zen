@@ -1,6 +1,11 @@
 .header {
   padding: 10px 15px;
   border-bottom: 1px solid #AAAAAA;
+  margin-bottom: 100vh;
+}
+
+.header__wrapper {
+  display: flex;
 }
 
 .header__logo {
@@ -37,6 +42,9 @@
   z-index: -1;
   top: 50%;
   right: 8px;
+  transform: translateY(-50%);
+  width: 9px;
+  height: 6px;
 }
 
 .header__lang select {
