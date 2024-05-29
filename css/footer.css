@@ -21,10 +21,19 @@
 
 .footer__info {
   border: 2px dashed aqua;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
 }
 
-.footer__logo {}
+.footer__logo {
+  width: 216px;
+  height: 23px;
+}
 
 .footer__copy {}
 
-.footer__dev {}
+.footer__dev {
+  margin: 0 auto;
+  width: 130px;
+}
