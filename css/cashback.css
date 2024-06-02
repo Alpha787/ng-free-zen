@@ -1,5 +1,4 @@
 .cashback {
-  border: 1px dashed red;
   padding: 30px 15px;
 }
 
@@ -17,7 +16,7 @@
 }
 
 .cashback__copy {
-  margin-top: 40px;
+  margin-top: 10px;
 }
 
 .cashback__button {
