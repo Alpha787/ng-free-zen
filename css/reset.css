@@ -12,17 +12,15 @@ h3,
 h4,
 h5,
 h6 {
+  line-height: inherit;
   font-size: inherit;
-  font-weight: 400;
+  color: inherit;
+  text-align: inherit;
 }
 
 ul,
 ol {
   list-style: none;
-}
-
-img {
-  width: 100%; 
 }
 
 a {
@@ -31,21 +29,16 @@ a {
 }
 
 button {
-  color: inherit;
-  font-family: inherit;
+  /* color: inherit; */
+  /* font-family: inherit; */
   font-size: inherit;
   background: none;
   border: none;
 }
 
-select{
-  appearance: none;  
-  border: none;
-  background: none;
-}
-
-input {
+input, select {
   appearance: none;
   background: none;
-  border: 0;
+  border: none;
+  outline: none;
 }
